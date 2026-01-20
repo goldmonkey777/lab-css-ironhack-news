@@ -527,7 +527,7 @@ There are a couple of possible reasons why you may be unable to *push* changes t
 1. **You have not committed your changes:** Before you can push your changes to the repository, you need to commit them using the `git commit` command. Make sure you have committed your changes and try pushing again. To do this, run the following terminal commands from the project folder:
   ```bash
   git add .
-  git commit -m "Your commit message"
+  git commit -m "  git push origin masterYour commit message"
   git push
   ```
 2. **You do not have permission to push to the repository:** If you have cloned the repository directly from the main Ironhack repository without making a *Fork* first, you do not have write access to the repository.
