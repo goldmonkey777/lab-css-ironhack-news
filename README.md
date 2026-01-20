@@ -1,3 +1,14 @@
+## Summary and Acknowledgment
+
+**Summary of What I Learned**
+
+In this project, I learned how to create a responsive web page using HTML and CSS, applying Flexbox and media queries to adapt the layout for different screen sizes. I practiced structuring content, styling navigation bars, and making the design user-friendly for both desktop and mobile devices. This experience helped me understand the fundamentals of responsive web design and the importance of accessibility and usability.
+
+**Thank You**
+
+Thank you, Ironhack, for the opportunity to learn and grow as a web developer. Special thanks to Professor Jorge for his guidance and support throughout the course. This project was completed by goldmonkey.studio Elder Miranda.
+
+---
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # LAB | CSS Ironhack News
